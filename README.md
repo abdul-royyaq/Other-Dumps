@@ -6,7 +6,7 @@ Other dump files in here!.
 
 ## Clone
 ```bash 
-git clone https://github.com/abdul-royyaq/Other-Dumps
+git clone https://github.com/abdul-royyaq/Other-Dumps.git
 ```
 
 ## License
