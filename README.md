@@ -10,4 +10,4 @@ git clone https://github.com/abdul-royyaq/Other-Dumps
 ```
 
 ## License
-[MIT](http://github.com/abdul-royyaq/Other-Dumps/LICENSE.txt)
+[MIT](https://github.com/abdul-royyaq/Other-Dumps/blob/master/LICENSE.txt)
