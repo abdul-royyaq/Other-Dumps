@@ -3,7 +3,7 @@
 ## Clone
 
 ```bash
-git clone https://github.com/abdul-royyaq/Other-Dumps/BSE/X-SMK.git
+git clone https://github.com/abdul-royyaq/Other-Dumps/tree/master/BSE/X-SMK.git
 ```
 
 ## License
